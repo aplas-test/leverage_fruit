@@ -22,7 +22,48 @@
       "months_to_renew_support": "16",
       "sme_email": "Keefe.Vanes@memento.net.au",
       "vendor_phone": "+7 516 399 8220",
-      "investment_number": "68"
+      "investment_number": "68",
+      "integrations": [
+        {
+          "id": "int-181",
+          "name": "INT-181",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum rutrum rutrum neque.",
+          "sourceApplicationId": "leverage_fruit",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "Async Response",
+          "golive_date": "14/4/05",
+          "sme_name": "Gualterio Trevaskiss",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gtrevaskissk@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "22/1/16"
+        },
+        {
+          "id": "int-004",
+          "name": "INT-004",
+          "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
+          "description": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+          "sourceApplicationId": "leverage_fruit",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "ONLINE",
+          "status_color": "#FF0000",
+          "pattern": "Fire and Forget",
+          "golive_date": "5/12/09",
+          "sme_name": "Muhammad Cammack",
+          "decom_date": "12/12/17",
+          "datacentre": "Altona",
+          "department": "Datawarehouse",
+          "status": "Decomissioned",
+          "sme_email": "mcammackh@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "16/5/15"
+        }
+      ]
     }
   ]
 }
